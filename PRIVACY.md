@@ -1,8 +1,8 @@
-## Privacy Policy for ContentCreator
+## Privacy Policy for AutoContentCreator
 ### Effective date: 15 February 2026
 
 ### 1) About this app
-**ContentCreator** is an automation tool used to publish content to the Facebook Page **The Bulletproof Mind** via the Facebook/Meta API.
+**AutoContentCreator** is an automation tool used to publish content to the Facebook Page **The Bulletproof Mind** via the Facebook/Meta API.
 
 Posts published by this app may include:
 - Dhamma quotes and short teachings
@@ -49,7 +49,7 @@ Because we do not collect personal user data, there is typically nothing to acce
 
 ### 9) Contact
 If you have questions about this Privacy Policy or the app, contact:
-- Email: **Blasanka95@gmail.com**
+- Email: **bliyanageasanka@gmail.com**
 - Page: **The Bulletproof Mind**
 - Country: **Sri Lanka**
 
